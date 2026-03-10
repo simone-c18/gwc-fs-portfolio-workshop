@@ -2,7 +2,7 @@ function Projects() {
   return (
     <div className=" bg-[#FFD3E7] flex flex-col gap-10">
       <p className="mt-[4vh] ml-[4vw] font-bold text-lg text-left ">
-        imani-mcquay.com
+        {/* your url */}
       </p>
       <div className="rounded-2xl bg-white flex md:flex-row flex-col outline-2 outline-offset-6 mt-4 md:mt-[3vh] mx-6 md:mx-[2vw] p-6 shadow-md">
         <h3 className="md:text-4xl text-2xl md:ml-8 md:mt-[2vh] font-semibold text-left">

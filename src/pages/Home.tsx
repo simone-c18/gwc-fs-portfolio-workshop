@@ -6,13 +6,13 @@ function Home() {
     <main className="w-screen  flex flex-col items-start">
       <div className=" w-full h-[50vh]  bg-[#FFD3E7]">
         <p className="mt-[4vh] ml-[4vw] font-bold text-lg text-left ">
-          imani-mcquay.com
+          {/* your url */}
         </p>
         <div className="mt-[11vh] text-left ml-[5vw] leading-18 text-6xl font-bold">
           <h1 className="">
-            Hi,
+            {/* Hi,
             <br />
-            I'm Imani.
+            I'm [name]. */}
           </h1>
         </div>
       </div>
@@ -32,18 +32,17 @@ function Home() {
           <p className="text-2xl">
             {" "}
             <span className="font-bold">Languages: </span>
-            Python, Java, C, C++, TypeScript, HTML, CSS
+            {/* insert languages here */}
           </p>
           <p className="text-2xl mt-[3vh]">
             {" "}
             <span className="font-bold">Frameworks + Libraries: </span>
-            React, Node.js, Express, TailwindCSS, MongoDB, Ultralytics, YOLO
+            {/* insert frameworks/libraries here */}
           </p>
           <p className="text-2xl mt-[3vh]">
             {" "}
             <span className="font-bold">Tools + Platforms: </span>
-            GitHub, VS Code, Jupyter Notebook, Google Colab, AutoGen, Android
-            Studio
+            {/* insert tools here */}
           </p>
           <br />
           <br />
